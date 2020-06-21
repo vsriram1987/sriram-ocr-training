@@ -11,3 +11,8 @@
 /home/sriram/dotnet-training/sriram-ocr-training/obj/Debug/netcoreapp3.1/sriram-ocr-training.dll
 /home/sriram/dotnet-training/sriram-ocr-training/obj/Debug/netcoreapp3.1/sriram-ocr-training.pdb
 /home/sriram/dotnet-training/sriram-ocr-training/obj/Debug/netcoreapp3.1/sriram-ocr-training.genruntimeconfig.cache
+/home/sriram/dotnet-training/sriram-ocr-training/bin/Debug/netcoreapp3.1/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+/home/sriram/dotnet-training/sriram-ocr-training/bin/Debug/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+/home/sriram/dotnet-training/sriram-ocr-training/bin/Debug/netcoreapp3.1/Microsoft.Rest.ClientRuntime.Azure.dll
+/home/sriram/dotnet-training/sriram-ocr-training/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/sriram/dotnet-training/sriram-ocr-training/obj/Debug/netcoreapp3.1/sriram-ocr-training.csproj.CopyComplete

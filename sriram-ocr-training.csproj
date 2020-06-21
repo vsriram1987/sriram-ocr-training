@@ -6,4 +6,8 @@
     <RootNamespace>sriram_ocr_training</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.CognitiveServices.Vision.ComputerVision" Version="5.0.0" />
+  </ItemGroup>
+
 </Project>

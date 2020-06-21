@@ -1,0 +1,3 @@
+test = "Hello World"
+computerVisionEndpoint = "https://sriramtraining.cognitiveservices.azure.com/"
+computerVisionSubscriptionKey = "1b0167f4b06a423db5e4c0131e80a135"
