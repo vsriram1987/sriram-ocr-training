@@ -1,0 +1,13 @@
+/home/sriram/dotnet-training/sriram-ocr-training/bin/Debug/netcoreapp3.1/sriram-ocr-training
+/home/sriram/dotnet-training/sriram-ocr-training/bin/Debug/netcoreapp3.1/sriram-ocr-training.deps.json
+/home/sriram/dotnet-training/sriram-ocr-training/bin/Debug/netcoreapp3.1/sriram-ocr-training.runtimeconfig.json
+/home/sriram/dotnet-training/sriram-ocr-training/bin/Debug/netcoreapp3.1/sriram-ocr-training.runtimeconfig.dev.json
+/home/sriram/dotnet-training/sriram-ocr-training/bin/Debug/netcoreapp3.1/sriram-ocr-training.dll
+/home/sriram/dotnet-training/sriram-ocr-training/bin/Debug/netcoreapp3.1/sriram-ocr-training.pdb
+/home/sriram/dotnet-training/sriram-ocr-training/obj/Debug/netcoreapp3.1/sriram-ocr-training.csprojAssemblyReference.cache
+/home/sriram/dotnet-training/sriram-ocr-training/obj/Debug/netcoreapp3.1/sriram-ocr-training.AssemblyInfoInputs.cache
+/home/sriram/dotnet-training/sriram-ocr-training/obj/Debug/netcoreapp3.1/sriram-ocr-training.AssemblyInfo.cs
+/home/sriram/dotnet-training/sriram-ocr-training/obj/Debug/netcoreapp3.1/sriram-ocr-training.csproj.CoreCompileInputs.cache
+/home/sriram/dotnet-training/sriram-ocr-training/obj/Debug/netcoreapp3.1/sriram-ocr-training.dll
+/home/sriram/dotnet-training/sriram-ocr-training/obj/Debug/netcoreapp3.1/sriram-ocr-training.pdb
+/home/sriram/dotnet-training/sriram-ocr-training/obj/Debug/netcoreapp3.1/sriram-ocr-training.genruntimeconfig.cache
